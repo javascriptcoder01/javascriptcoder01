@@ -192,10 +192,14 @@ I provide complete Full-Stack Development services including:
 https://linkedin.com/in/javascriptcoder
 
 📧 Email:
-yourmail@gmail.com
+amck.sharma@gmail.com
 
 🌐 Portfolio:
-Coming Soon
+https://react-portfolio-neeraj.netlify.app
+
+📱 Mobile: +91 9654413626
+
+📍 Location: Noida, Uttar Pradesh, India
 
 📱 Open for:
 
