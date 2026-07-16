@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Neeraj Kumar
 
-[![Freelance](https://img.shields.io/badge/Available%20for-Freelance-success?style=for-the-badge)]()
-[![Experience](https://img.shields.io/badge/Experience-2.5%2B%20Years-orange?style=for-the-badge)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/javascriptcoder)
-
+[![Available for Freelance](https://img.shields.io/badge/Available%20for-Freelance-22c55e?style=for-the-badge&logo=freelancer&logoColor=white)]()
+[![Experience](https://img.shields.io/badge/Experience-2.5%2B%20Years-f59e0b?style=for-the-badge&logo=bookstack&logoColor=white)]()
+[![Open to Full-Time](https://img.shields.io/badge/Open%20to-Full--Time-2563eb?style=for-the-badge&logo=briefcase&logoColor=white)]()
+[![Available for Contract](https://img.shields.io/badge/Available%20for-Contract-8b5cf6?style=for-the-badge&logo=handshake&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javascriptcoder)
 ---
 
 # 🚀 About Me
