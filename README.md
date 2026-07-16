@@ -154,6 +154,10 @@ I provide complete Full-Stack Development services including:
 
 ✔ Email & WhatsApp Automation
 
+✔ Email & WhatsApp and Mobile OTP verification
+
+✔ SEO Integration
+
 ✔ Database Design
 
 ✔ Clean & Maintainable Code
@@ -207,6 +211,7 @@ https://react-portfolio-neeraj.netlify.app
 - Contract
 - Remote
 - Part-Time
+- Full-Time
 - Long-Term Projects
 
 ---
